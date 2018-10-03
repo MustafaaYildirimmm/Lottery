@@ -1,0 +1,9 @@
+C:\Users\msft_\source\repos\Lottery\Lottery\bin\Debug\Lottery.exe
+C:\Users\msft_\source\repos\Lottery\Lottery\bin\Debug\Lottery.pdb
+C:\Users\msft_\source\repos\Lottery\Lottery\obj\Debug\Lottery.csprojAssemblyReference.cache
+C:\Users\msft_\source\repos\Lottery\Lottery\obj\Debug\Lottery.Form1.resources
+C:\Users\msft_\source\repos\Lottery\Lottery\obj\Debug\Lottery.Properties.Resources.resources
+C:\Users\msft_\source\repos\Lottery\Lottery\obj\Debug\Lottery.csproj.GenerateResource.cache
+C:\Users\msft_\source\repos\Lottery\Lottery\obj\Debug\Lottery.csproj.CoreCompileInputs.cache
+C:\Users\msft_\source\repos\Lottery\Lottery\obj\Debug\Lottery.exe
+C:\Users\msft_\source\repos\Lottery\Lottery\obj\Debug\Lottery.pdb
